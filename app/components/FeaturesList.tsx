@@ -13,7 +13,7 @@ const FeaturesList = () => {
       <path d="m896 1629 640-349V644L896 877v752zm-64-865 698-254-698-254-698 254zm832-252v768q0 35-18 65t-49 47l-704 384q-28 16-61 16t-61-16L67 1392q-31-17-49-47t-18-65V512q0-40 23-73t61-47l704-256q22-8 44-8t44 8l704 256q38 14 61 47t23 73z" fill="#000000" className="color000000 svgShape"></path>
     </svg>
     <h1 className="my-6 text-3xl md:text-4xl text-green-950 font-extrabold">Boost Engagement and Sales</h1>
-    <p className="text-sm md:text-base font-light px-4 md:px-8">Capture your customers' attention with stunning 3D visuals and provide them with an interactive and personalized shopping experience.</p>
+    <p className="text-sm md:text-base font-light px-4 md:px-8">Capture your customers`&apos; attention with stunning 3D visuals and provide them with an interactive and personalized shopping experience.</p>
   </div>
 
   <div className="flex flex-col justify-center items-center text-center w-full md:w-1/3">
