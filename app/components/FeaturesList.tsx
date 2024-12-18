@@ -25,7 +25,7 @@ const FeaturesList = () => {
             Boost Engagement and Sales
           </h2>
           <p className="text-gray-600 text-sm md:text-base leading-relaxed">
-            Capture your customers' attention with stunning 3D visuals and provide them with an interactive and personalized shopping experience.
+            Capture your customers&apos; attention with stunning 3D visuals and provide them with an interactive and personalized shopping experience.
           </p>
         </div>
 
