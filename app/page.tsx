@@ -26,10 +26,10 @@ export default function Home() {
   <Features/>
   <CTA/>  
   <FeaturesList/>
-  <Testimonial/>
+  
   <Benifits/>
   <TimeLine/>
-  <Team/>
+  
   <CTA/>  
   <Footer/>
     </main>
