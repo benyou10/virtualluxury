@@ -14,15 +14,7 @@ const Header = () => {
           Experience the power of immersive 3D web development.
         </p>
         <div className="input-group flex flex-col lg:flex-row items-center gap-2">
-          <label className="input input-bordered flex items-center gap-2">
-            Email
-            <input
-              type="text"
-              className="grow"
-              placeholder="contact@virtualluxury.com"
-            />
-          </label>
-          <input className="btn mt-2 lg:mt-0" value="Contact" type="submit" />
+        <h1 className='font-extrabold text-2xl'>admin@luxurialspace.studio</h1>
         </div>
       </div>
 

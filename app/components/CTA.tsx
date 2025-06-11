@@ -16,24 +16,12 @@ const CTA = () => {
         {/* Input and Button */}
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
           <div className="relative w-full sm:w-auto">
-            <input
-              type="email"
-              placeholder="contact@virtualluxury.studio"
-              className="input input-bordered w-full px-4 py-2 rounded-md border-2 border-gray-300 focus:outline-none focus:border-green-700"
-            />
+           <h1 className='font-extrabold text-2xl'>admin@luxurialspace.studio</h1>
           </div>
-          <button
-            className="btn bg-green-700 text-white px-6 py-2 rounded-md hover:bg-green-800 transition duration-300"
-            type="submit"
-          >
-            Contact
-          </button>
+          
         </div>
 
-        {/* Disclaimer */}
-        <p className="text-sm text-gray-500 mt-4">
-          By clicking Sign Up you will receive our latest offers.
-        </p>
+       
       </div>
 
       {/* Tools Section */}
